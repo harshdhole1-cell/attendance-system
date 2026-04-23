@@ -1,0 +1,25 @@
+#utilities
+numpy
+pandas
+#face recognition
+scikit-learn
+
+dlib
+
+#to get vectorized face recognition
+git+https://github.com/ageitgey/face_recognition
+setuptools<70.0.0
+
+#supabase for database
+supabase
+#hashing for password protection
+bcrypt
+
+#for Q-code
+segno
+#to import image in python(data preprocessing),gives various methods to 
+# transform , resize ,color to the image
+pillow
+
+#to add frontend
+streamlit
